@@ -7,11 +7,12 @@ const Content = () => {
   return (
     <div>
       <h1>Content</h1>
-      {console.log(
+      <h2>First update is done in mani baranch succesfully</h2>
+      {/* {console.log(
         data.data.map((ele) => {
           console.log("elements", ele);
         })
-      )}
+      )} */}
     </div>
   );
 };
