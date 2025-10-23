@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import useMyFetch from "./useMyFetch";
 const Content = () => {
   const [data, setData] = useState(null);
-
+  console.log("some change");
   return (
     <div>
       <h1>Content</h1>
