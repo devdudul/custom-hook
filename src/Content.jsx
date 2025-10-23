@@ -8,6 +8,7 @@ const Content = () => {
     <div>
       <h1>Content</h1>
       <h2>First update is done in mani baranch succesfully</h2>
+      <h3>Second update is done in main branch </h3>
       {/* {console.log(
         data.data.map((ele) => {
           console.log("elements", ele);
